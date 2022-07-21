@@ -10,6 +10,7 @@ import io.restassured.response.Response;
 
 public class CreateCustomerAPI extends BaseTest {
 
+	//Testing changes to the Github repository.
 	public static Response sendPostRequestToCreateCustomerAPIWithValidAuthKey(Hashtable<String, String> data) {
 
 //		Response response = given().auth().basic(config.getProperty("validSecretKey"), "")
