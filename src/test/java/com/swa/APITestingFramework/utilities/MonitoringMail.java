@@ -17,7 +17,8 @@ import javax.mail.internet.MimeMessage;
 import javax.mail.internet.MimeMultipart;
 
 
-
+/*Kindly note that in order to run this utility, the anti-virus should be disabled and the security apps access should be
+ * turned on*/
 public class MonitoringMail
 {
 	//public static void sendMail(String mailServer, String from,String username, String password,String port, String[] to, String subject, String messageBody, String attachmentPath, String attachmentName) throws MessagingException, AddressException
